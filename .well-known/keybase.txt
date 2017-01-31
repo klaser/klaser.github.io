@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ablock
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://block.codes
+  * I am ablock (https://keybase.io/ablock) on keybase.
+  * I have a public key ASCrYL8pZJaPMrG9zqoqYu6idXo098OYNI5mvoGrzD9O6go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101869e32c988281b4a15269369df7850213c134769bcee82e03fc6fd8f3d6b6eae0a",
+            "host": "keybase.io",
+            "kid": "0120ab60bf2964968f32b1bdceaa2a62eea2757a34f7c398348e66be81abcc3f4eea0a",
+            "uid": "c0de60930ae74d57f1a428b390e86600",
+            "username": "ablock"
+        },
+        "service": {
+            "hostname": "block.codes",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1485879588,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1485879563,
+        "hash": "32f846157883070bbfa6687c8287011a71d94afb9f08e762d1bfb67430d690663400fd5cda7dc7afd1cc9db6c05b9db301df250c87749d4751f8b83fdbf3b4da",
+        "seqno": 826856
+    },
+    "prev": "d437d3f8941c0d95e46eea08b3f2ed8d39fff4aa1c2587359abdae87f0723a4c",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq2C/KWSWjzKxvc6qKmLuonV6NPfDmDSOZr6Bq8w/TuoKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxODY5ZTMyYzk4ODI4MWI0YTE1MjY5MzY5ZGY3ODUwMjEzYzEzNDc2OWJjZWU4MmUwM2ZjNmZkOGYzZDZiNmVhZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWI2MGJmMjk2NDk2OGYzMmIxYmRjZWFhMmE2MmVlYTI3NTdhMzRmN2MzOTgzNDhlNjZiZTgxYWJjYzNmNGVlYTBhIiwidWlkIjoiYzBkZTYwOTMwYWU3NGQ1N2YxYTQyOGIzOTBlODY2MDAiLCJ1c2VybmFtZSI6ImFibG9jayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmxvY2suY29kZXMiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg1ODc5NTg4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODU4Nzk1NjMsImhhc2giOiIzMmY4NDYxNTc4ODMwNzBiYmZhNjY4N2M4Mjg3MDExYTcxZDk0YWZiOWYwOGU3NjJkMWJmYjY3NDMwZDY5MDY2MzQwMGZkNWNkYTdkYzdhZmQxY2M5ZGI2YzA1YjlkYjMwMWRmMjUwYzg3NzQ5ZDQ3NTFmOGI4M2ZkYmYzYjRkYSIsInNlcW5vIjo4MjY4NTZ9LCJwcmV2IjoiZDQzN2QzZjg5NDFjMGQ5NWU0NmVlYTA4YjNmMmVkOGQzOWZmZjRhYTFjMjU4NzM1OWFiZGFlODdmMDcyM2E0YyIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBm4tdTB5J5wC5SOkEoz4Bc2kF00Psp/LdXpkHxb1uRwmsaDLaG3+6BrCkE2xQ8Cm1EFsCUG70qoZy+UgbiidgPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgQ9VZ1QZKkEHzzIRYNMqTdw8ecEEwpNERWZBDwQuqnD2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ablock
+
+==================================================================
